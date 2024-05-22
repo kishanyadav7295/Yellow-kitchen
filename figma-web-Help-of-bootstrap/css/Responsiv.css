@@ -1,0 +1,49 @@
+@media only screen and (max-width: 576px) {
+    .user-div-icon-box{
+        display: none;
+     }
+     #location-icon{
+        position: absolute;
+        color: #9093A6;
+        top: 60px;
+        left: 25px;
+        font-size: 12px;
+     }
+     .bb2 input{
+        width: 50%;
+        height: 40px;
+        border: none;
+        outline: none;
+        padding-left: 30px;
+        margin-top: 30px;
+        font-size: 10px;
+     }
+     .bb2 a{
+        width: 80px;
+        margin-top: 31px;
+        height: 38px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-decoration: none;
+        background-color: #FFE145;
+        color: #B79C10;
+     }
+     #yellow-heading-1{
+        font-size: 24px !important;
+     }
+
+     #yellow-heading-1>span{
+        font-size: 20px !important;
+     }
+     .ftr-logo-div span{
+        width: 350px;
+        height: 1px;
+        background-color: rgb(178, 178, 178);
+        margin-top: 30px;
+        display: block;
+     }
+
+     
+
+  }
